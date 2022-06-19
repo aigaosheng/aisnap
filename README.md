@@ -1,0 +1,2 @@
+# aisnap
+News summarization system
