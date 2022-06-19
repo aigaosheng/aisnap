@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+gensim = "*"
+nltk = "*"
+networkx = "*"
+pandas = "*"
+xlrd = "*"
+matplotlib = "*"
+sklearn = "*"
+jieba = "*"
+
+[requires]
+python_version = "2.7"

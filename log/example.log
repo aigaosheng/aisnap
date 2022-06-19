@@ -1,0 +1,16 @@
+2018-05-28 15:37:43,222 - snap - INFO - #######Use < leader > method to extract sum2018-05-28 15:37:43,222 snap INFO:#######Use < leader > method to extract summary
+2018-05-28 15:37:43,228 Document.preprocess INFO:Preprocess
+2018-05-28 15:37:44,307 gensim.corpora.dictionary INFO:adding document #0 to Dictionary(0 unique tokens: [])
+2018-05-28 15:37:44,308 gensim.corpora.dictionary INFO:built Dictionary(332 unique tokens: [u'applic', u'comment', u'construct', u'forget', u'pros']...) from 103 documents (total 706 corpus positions)
+2018-05-28 15:37:44,309 gensim.similarities.docsim INFO:starting similarity index under cache/docindex
+2018-05-28 15:37:44,328 gensim.similarities.docsim INFO:creating sparse index
+2018-05-28 15:37:44,328 gensim.matutils INFO:creating sparse matrix from corpus
+2018-05-28 15:37:44,328 gensim.matutils INFO:PROGRESS: at document #0/103
+2018-05-28 15:37:44,330 gensim.similarities.docsim INFO:created <103x332 sparse matrix of type '<type 'numpy.float32'>'
+	with 682 stored elements in Compressed Sparse Row format>
+2018-05-28 15:37:44,330 gensim.similarities.docsim INFO:creating sparse shard #0
+2018-05-28 15:37:44,330 gensim.similarities.docsim INFO:saving index shard to cache/docindex.0
+2018-05-28 15:37:44,330 gensim.utils INFO:saving SparseMatrixSimilarity object under cache/docindex.0, separately None
+2018-05-28 15:37:44,331 gensim.utils INFO:saved cache/docindex.0
+2018-05-28 15:37:44,331 gensim.utils INFO:loading SparseMatrixSimilarity object from cache/docindex.0
+2018-05-28 15:37:44,331 gensim.utils INFO:loaded cache/docindex.0

@@ -1,0 +1,298 @@
+[Aspect]
+notchqualiti
+connectoriphon
+conprice
+price
+cabl
+ship
+pros
+product
+cord
+apple
+steve
+atandt
+fake
+ipods
+usb
+service
+iphones
+lol
+seller
+otterbox
+iphone
+amamzon
+3g
+jobs
+ipod
+delivery
+amazon
+oem
+customer
+of
+unitedintegral
+
+[Summary]
+
+ I was excited this came with 3 cables as all of my existing cables were working but getting old and torn. [ cabl: 11/16 like] 
+
+ I can tell they are "slightly" cheaper than the actual iPhone/iPod cables - but only "slightly". [ cabl: 5/16 dislike] 
+
+ Great product, great price!!! [ price: 6/7 like] 
+
+ I needed a new USB cord for my iphone and went ahead and bought a few since the price was sooooo cheap! [ price: 1/7 dislike] 
+
+ The price was great, the cord works as promised. [ cord: 2/3 like] 
+
+ I'm not happy that it doesn't charge like it says in the product description! [ product: 3/8 dislike] 
+
+ The item shipped is a cheap knockoff. [ ship: 4/4 like] 
+
+ I ordered two of these because they were "SO" cheap. [ of: 6/14 dislike] 
+
+ The seller did a fine job getting it to me in a reasonable time frame and at a good price. [ seller: 1/2 like] 
+
+ Many sellers are selling after market knock offs advertised as "Apple replacement" "Apple OEM compatible with the following models" which they list the different models it should work with. [ seller: 1/2 dislike] 
+
+ USB also DIDN'T WORK at all and my computer couldn't recognize my ipod. [ ipod: 2/4 like] 
+
+ I ordered two of these so I'd have some backups (already misplaced the included cables) for my ipod classic and ipod touch 3G. [ ipod: 2/4 dislike] 
+
+ FAKE and CHEAP.Not an apple product. [ apple: 3/4 like] 
+
+ This is a real apple product, not a cheap imitation. [ apple: 1/4 dislike] 
+
+ I switched the data cable to my usb hub connected to my computer that's outlet powered and that seemed to solve the problem so maybe the issue lies in my computer not giving enough power through the case usb. [ usb: 2/3 like] 
+
+ My advice, stay away from these products, especially since changes have been made to the Ipod and Iphone connector, dropping support for the firewire and usb models to usb only. [ usb: 1/3 dislike] 
+
+ The case which houses the iphone connector falls apart at the slightest hint of wind. [ iphone: 3/4 like] 
+
+ They do work with my iphone 3g, so the function is great as a backup, but I need these to last much longer to be considered worth it. [ 3g: 1/1 like] 
+
+[Compression ratio]
+0.099448 (18/181)
+
+
+[Outlier sentences]
+0: Pros:
+It charges my 2nd generation ipod touch (running 3.0)
+It syncs video, music and applications.
+1: It's just a cheap 3rd party prduct with the USB symbol upside down
+and a cheap-looking connector.
+2: It has a chintzy locking tab (OEM has no tab) that would not release and I had to rip the cord out of my phone to get it out.
+3: Buyer beware.
+4: In the month since I received them, 3 have broken in one way or another.
+5: The delivery by mail was speedy.
+6: I am certainly glad I tried them instead of going ahead and buying them from my phone carrier.
+7: Needless to say, I had to throw it away.
+8: All in all, I was not disappointed with my purchase, but still these imperfections costs one star from being perfect Apple replacement.
+9: Now appease me, shady Taiwanese plastics company!
+10: Cons:
+I question the authenticity of this.
+11: I'm still unsure if it's official or not.
+12: I  have a number of Macs and Ipod units, and like having a cord available at each location.
+13: I also lose cables, or forget to bring one with me when I go the office, or some place where I spend a lot of time.
+14: So bad that I've been driven to write my first Amazon review.
+15: Don't waste your money.
+16: The appearance and construction is fair.
+
+[Input Document]
+I was unpleasantly surprised by this product because it is not an official apple product
+as the title implies.
+It's just a cheap 3rd party prduct with the USB symbol upside down
+and a cheap-looking connector.
+Seems to work well, so I've got no other problems.
+The item shipped was not the item pictured.
+The item shipped is a cheap knockoff.
+It has a chintzy locking tab (OEM has no tab) that would not release and I had to rip the cord out of my phone to get it out.
+Buyer beware.
+I ordered two of these because they were "SO" cheap.
+I wish I had ordered more - these are exceptional.
+I can tell they are "slightly" cheaper than the actual iPhone/iPod cables - but only "slightly".
+Otherwise, they are superior to any of the other aftermarket ones I've seen.
+My next order from this company will include a couple more of these.
+I picked this up for super cheap and was not sure how it would hold up, but figured it was worth the risk after the one that came with my iPhone frayed.
+It works great and appears to be the exact same as the one that my 3G shipped with.
+Highly recommended.
+I expected cheap cables so I bought 5.
+In the month since I received them, 3 have broken in one way or another.
+I will have to open the 4th tonight.
+The case which houses the iphone connector falls apart at the slightest hint of wind.
+The cables inside detach easily.
+They do work with my iphone 3g, so the function is great as a backup, but I need these to last much longer to be considered worth it.
+I ordered two of these so I'd have some backups (already misplaced the included cables) for my ipod classic and ipod touch 3G.
+I plugged in my touch and this message appears on the screen "Charging is not supported with this accessory".
+So far syncing with itunes seems to work.
+I'm not happy that it doesn't charge like it says in the product description!
+It DOES however both sync and charge my ipod classic so it's not a total loss.
+I just use the touch a lot more LOL.
+not only does the cable great but the price being as low as it is, i was able to buy 4 of them to have for charging in my cars, home, and office.
+Great product, great price!!!
+I was excited this came with 3 cables as all of my existing cables were working but getting old and torn.
+I had noticed the low reviews here, but thought a cable was a cable and I would be happy with whatever they gave me.
+The result?
+I wish I hadn't thrown out my older cables because 2 of the 3 new cables gave out in 10-12 days.
+I'm down to one now, but am having to shop around.
+When the first one went out, I figured it was a fluke... but when the second just did in the same time frame, I decided to write this review.
+Not sure exactly how the product goes out.
+They are all still in great condition, nothing was stretched or handled beyond its use.
+It simply doesn't power or sync.
+I've tested on the computer, wall charger, car... all nothing.
+I hope this review helps you.
+The price was great, the cord works as promised.
+Used it 2 minutes after I got it.
+The delivery by mail was speedy.
+Only comment is that you should be sure to squeeze the
+release buttons when extracting it from the phone.
+The apple cord does not have any lock
+on it when inserted into the phone.
+Great product, thanks!
+I bought 2 cables from this seller about 2 weeks ago and the items received were not the cable the seller displayed on display picture.
+The cables sent were an old/cheap version of the cables with a wider head and would not fit with my Otter case.
+I proceeded to contact the seller to return the items and the seller responded the hext day.
+Seller replaced the items within a week,  shipped the correct cables and let me keep the original 2 he sent, (This is what Customer Service is all about).
+They are not original Apple cables, but they are pretty dam close to them.
+Cables are good for data transfer and charging.
+RECOMMENDED...
+This product was as described when I received it and I would order from this company again.
+There was really fast shipping even though I used the regular standard delivery.
+There have been no problems with this product since ordering...
+I ordered it because the other usb cable had been lost somewhere and this was the cheapest.
+product was inexpensive and it works, what else can I say and what else is expected of a docking cable.
+I was a little concerned about the purchase since I had earlier bought some car chargers at a similar price that my i-phone would not accept, but I tried it anyway.
+They work wonderfully.
+I am certainly glad I tried them instead of going ahead and buying them from my phone carrier.
+Well, I knew what I was getting into when I bought this cable.
+I obviously was not expecting top notch quality for the price I paid.
+Let's just say, the cord worked fine for 3 days.
+The end piece that connects to the iPhone completely tore off, exposing the wire underneath.
+Needless to say, I had to throw it away.
+An Apple iPod and iPhone dock connector is basically just a glorified USB cable.
+It doesn't do much other than transmit data and power.
+There's no excuse for Apple to charge $20 for a wire.
+This one works fine, and is priced far more appropriately.
+I currently own an Iphone 3GS with an Otterbox case and I can attest that these cables work just as well as the genuine Apple branded data cables.
+My original cable became ripped at the end where the wire connects to the plug to the Iphone so the wires are now exposed.
+While it still works, I feared that it would eventually fail completely.
+These cables were just the right price for me so I took a chance and bought 3 so I can keep one for my car charger, one for work, and one for home/traveling.
+All in all after two weeks of testing all three cables, I was not disappointed.
+I can charge my phone as well as transfer my itunes music, apps, and contacts without a problem.
+Some issues that do occur on occasion is that when I use the data cable with the apple OEM outlet plug adapter I get a message saying this accessory is not made to charge the phone.
+A quick unplug and replug solved the problem.
+Another issue is that if I sync up my Phone to my home computer it would ocassional give that same message and stops charging my phone but data is still being transferred.
+I switched the data cable to my usb hub connected to my computer that's outlet powered and that seemed to solve the problem so maybe the issue lies in my computer not giving enough power through the case usb.
+All in all, I was not disappointed with my purchase, but still these imperfections costs one star from being perfect Apple replacement.
+How difficult should it be to create a knockoff USB cable for an Apple product?
+If you're buying this to charge an iPhone with an OtterBox case, prepare to make some, ah, modifications, shall we say.
+The goes-in-the-phone end is too large to fit, and the plastic sides must be (don't laugh) shaved down slightly to get by the OtterBox.
+Alright, you're sitting there with a charging phone and a small pile of white plastic shavings on your desk.
+All well and good.
+If you're me, however, you only have about 4-6 weeks before the cord pulls out of the charging end.
+What a piece.
+Of.
+Yonk.
+By gosh, I demand a cheap, quality knockoff so I don't have to send Steve Jobs $40 for a stinking 35 cent USB cord!
+Now appease me, shady Taiwanese plastics company!
+NOW!
+I bought this cable for my iPhone 1G.
+When I first used it, the connection seemed a little tight, but it worked fine at first.
+Shortly after using this cable I started having problems.
+First my other cable (the original that came with the iPhone) no longer worked, then my Home button stopped working and finally this cable no longer worked so I cannot recharge or synch my iPhone.
+I believe that since this did not fit correctly, it damaged one or more of the connectors and eventually lead to ruining my iPhone.
+First of all, The item isn't the one in the picture, it stopped working properly after the second day of use( being careful).
+It broke after 5 days.
+DO NOT BUY this item.At least not from UnitedIntegral who is the seller I bought it from.
+FAKE and CHEAP.Not an apple product.
+Not the same cable as depicted in the picture.
+Not a cable made by Apple as claimed in the product description.
+Stupidly I ignored the bad comments on this product.
+Received the cable quickly, however it is not the original cable that is in the pictures for item description.
+USB also DIDN'T WORK at all and my computer couldn't recognize my ipod.
+Overall, not worth even the lowest price.
+I needed a new USB cord for my iphone and went ahead and bought a few since the price was sooooo cheap!
+I figured they may be faulty at such a low cost but decided to take the risk and it was worth it, both work great, highly recommended.
+I bought two of these cheaper than I could get 1 at the ATandT store.
+Exactly the same product, same markings etc.
+I tried generic products and they did not fit my I phone so I went on the search for exactly what I had received in my phone package.
+Found it on Amazon.com as usual.
+We try to shop Amazon before going retail now.
+Initially, when I purchased this item, I doubted if a cable worth 2 cents would actually work.
+However, I found that this is not only as good as an apple cord, but it has a mechanism to firmly attach to the ipod plugin and avoid the unwanted release.
+It is better than actual apple cable.
+This is the real thing from Apple, at least judging by authentic branded packaging and product appearance.
+Worked fine for basic iPod file transfers(which is all I needed it for).
+However, a month ago I paid 1/3 the full SRP now being asked for it at this same Amazon web page.
+Might be good to watch to see if the price fluctuates if that is the main reason you're looking here to buy... otherwise why not just run down to a local store and pick one up there?
+Ordered this produce from Inspiretech on sunday evening, had it in my hand tuesday morning.
+Cable is generic but works on 3rd gen ipod touch and 3G iphone connected to a computer and the apple usb charger thingy.
+This is a real apple product, not a cheap imitation.
+It does what it should just like the one that came with my iPhone.
+I ordered this connector after reading several reviewes about connectors shipped that are not APPLE.
+I chose this one because it shows picture of APPLE box with logo on the webpage.
+The one that I received is generic(no APPLE logo).
+I sent an email to the shop thru Amamzon, got a reply immediately saying "Sorry you received wrong one, we will ship right one and you can keep the old one" which was nice but the new connector that I received is exactly same as old one(Not APPLE brand).
+This one works with my IPOD but I am very disappointed in the service.
+MANDM.
+Pros:
+It charges my 2nd generation ipod touch (running 3.0)
+It syncs video, music and applications.
+Cons:
+I question the authenticity of this.
+It did not come in the official apple box.
+(attached picture)
+It didn't come with the official apple papers.
+The official cord is always suppose to says "Designed by apple in California Assembled in China" on the usb side, but on the one I got, it said that on the dock connector side.
+(attached picture)
+The dock connector side has and awkward fit, and it didn't fit perfectly.
+(attached picture)
+
+Overall, it does it's job.
+I'm still unsure if it's official or not.
+If it's unofficial, I would have bought the 54cent one instead.
+After being burnt a number of times, on Apple accessories, I've learned to read the description carefully, especially under the used/new section.
+Many sellers are selling after market knock offs advertised as "Apple replacement" "Apple OEM compatible with the following models" which they list the different models it should work with.
+My advice, stay away from these products, especially since changes have been made to the Ipod and Iphone connector, dropping support for the firewire and usb models to usb only.
+The change made causes the earlier models, when plugged in, will usually place a message on the screen telling you it's not compatible.
+With others, the message may not come up, which could cause damage to your unit.
+I recommend always contacting the seller to make certain it is a genuine Apple made product, and it's compatible with the later models.
+With that said, the unit I received was an original Apple and works as advertised and expected.
+The seller did a fine job getting it to me in a reasonable time frame and at a good price.
+I  have a number of Macs and Ipod units, and like having a cord available at each location.
+I also lose cables, or forget to bring one with me when I go the office, or some place where I spend a lot of time.
+If you have an Iphone, you know what a power hog it is, so plugging it into an available USB port any where you get the opportunity, you'll take.
+Just be careful when ordering so you get the real deal.
+Real thing.
+Not much else to say.
+Quality cable at a good price.
+These cables are horrendous.
+So bad that I've been driven to write my first Amazon review.
+They are much shorter then then the OEM cable, do not consistently charge my iPhone 3G and have resulted in numerous sync errors (unplayable and/or broken songs).
+Purchased two cables and have the same random issues with both.
+Switching back to the OEM cable eliminated all charging/sync problems.
+Don't waste your money.
+Pros:
+
+Fast shipping
+Good price
+
+Cons:
+
+Expensive shipping charges.
+I just received the product and it does charge my iPhone 3G when using the adapter for wall socket charging.
+It did not charge or linked my iPhone when connected a PC.
+For the price I didn't bother with the hastle of returning it.
+I am using it as a back-up cable for work so i can charge my iPhone from a 120 socket.
+The appearance and construction is fair.
+It does look generic but not fragile.
+Delivery took about less than a week.
+All in all it does charge the phone, but be aware that it does not link to a PC.
+At least the one I received did not.
+The cable that is shipped is NOT the iPhone 3G cable in the image.
+It is an older version that is designed for iPods not iPhones.
+This means that it does not work with all forms of USB charging like the smaller one pictured that is designed for the iPhone 3G.
+Mine works when connected to a computer, but not to a powered USB hub or power supply - this happens with cables designed for iPods and the 2G iPhones and not specifically for the iPhone 3G.
+With the cheap cable cost but high shipping and handling, there is no point in pursuing a refund or other recourse.
+Get this cable if you are looking for a cable for an iPod or 2G iPhone, but not for the 3G or 3GS.
+Honestly there isn't much more to say about it than that.
+The product is a charger for my iPhone 3G and it does exactly what it's supposed to.
+I needed a spare to keep at my work computer and on my lappy and I haven't had any problems with it.

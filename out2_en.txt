@@ -1,0 +1,52 @@
+[Aspect]
+deliverifast
+price
+deliveri
+work
+qualiti
+product
+fast
+cord
+
+[Summary]
+0: Wish the cable came along with the E63 Nokia phone but for the price,  it was great.
+1: It worked beautifully the first time out.
+2: The service from the company was great!
+3: this cord worked great - a little slow on the shipping, but I did not pay the extra for fast delivery.
+
+[Outlier sentences]
+0: I'm totally happy with this purchasing experience.
+1: The cable is of good quality.
+2: Amazing!
+3: The purchase was smooth and the cable arrived a few days later.
+
+[Compression ratio]
+0.160000
+
+
+[Input Document]
+Genuine Nokia cable as advertised, at a great price an super fast delivery.
+I'm totally happy with this purchasing experience.
+I bought it to use with a Nokia Neuron since the CA101-D that came with that phone is only 8" long and too short for where I wanted to use it, so this cable is perfect for the location I want to use it in.
+Wish the cable came along with the E63 Nokia phone but for the price,  it was great.
+Works as expected.
+The cable is of good quality.
+As always Amazon delivered it earlier than expected!
+Not much to say other than this is a genuine Nokia cable that works with my N810 internet tablet.
+It's the same as what comes with the N810 and works as expected.
+Great price too!
+On Nokia site the cable was in excess of $25.
+At Amazon it was less than $2 !!
+Amazing!
+this cord worked great - a little slow on the shipping, but I did not pay the extra for fast delivery.
+Great price, perfect product.
+I love my Nokia E71 but Nokia opted not to package a connector cable in the unlocked version of the product.
+I don't have a data plan at the moment so I needed the CA-101 to be able to sync my calendar and notes entries.
+The device is meant for this to be done through data transfers via network service (hence no cable in box).
+I almost bought this cable on the [...]site for [...] and then thought to search Amazon where I found a new cable for[...] plus shipping.
+What a deal!!!!
+The purchase was smooth and the cable arrived a few days later.
+I'd use the seller again.
+The cable was purchased specifically to download photos from my phone to my computer.
+It worked beautifully the first time out.
+The service from the company was great!
